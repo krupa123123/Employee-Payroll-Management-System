@@ -50,11 +50,11 @@ GO
 
 -- Insert Sample Employees
 INSERT INTO Employeesdata (FirstName, LastName, Email, Position, Salary, HireDate, Status) VALUES
-('John', 'Doe', 'john.doe@example.com', 'Developer', 60000, '2023-01-10', 'Active'),
-('Jane', 'Smith', 'jane.smith@example.com', 'Manager', 75000, '2023-01-15', 'Active'),
-('Bob', 'Johnson', 'bob.johnson@example.com', 'Designer', 50000, '2023-02-01', 'Active'),
-('Alice', 'Williams', 'alice.williams@example.com', 'Analyst', 55000, '2023-02-10', 'Active'),
-('Tom', 'Brown', 'tom.brown@example.com', 'Tester', 45000, '2023-02-15', 'Active');
+('Mamidoju', 'Krupa', 'john.doe@example.com', 'Developer', 60000, '2023-01-10', 'Active'),
+('meta', 'Neela', 'jane.smith@example.com', 'Manager', 75000, '2023-01-15', 'Active'),
+('insta', 'Kiran', 'bob.johnson@example.com', 'Designer', 50000, '2023-02-01', 'Active'),
+('Air', 'Karthik', 'alice.williams@example.com', 'Analyst', 55000, '2023-02-10', 'Active'),
+('fire', 'Arun', 'tom.brown@example.com', 'Tester', 45000, '2023-02-15', 'Active');
 GO
 
 -- Insert Sample Pay Periods
